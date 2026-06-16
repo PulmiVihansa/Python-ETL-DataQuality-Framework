@@ -131,11 +131,11 @@ The framework validates data before loading:
 
 ### Dashboard Overview
 
-![Dashboard 1 Overview](screenshots/dashboard1_overview.png)
+![Dashboard 1 Overview](screenshots/dashboard1_overview.jpg)
 
 ### Dashboard with Filters Applied
 
-![Dashboard 1 Filtered](screenshots/dashboard1_filtered.png)
+![Dashboard 1 Filtered](screenshots/dashboard1_filtered.jpg)
 
 ---
 
@@ -152,7 +152,7 @@ The framework validates data before loading:
 
 ### Dashboard Overview
 
-![Dashboard 2](screenshots/dashboard2_etl_monitoring.png)
+![Dashboard 2](screenshots/dashboard2_etl_monitoring.jpg)
 
 ---
 
