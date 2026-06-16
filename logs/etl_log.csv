@@ -1,0 +1,5 @@
+file_name,rows_read,rows_loaded,status
+olist_customers_dataset.csv,99441,99441,SUCCESS
+olist_orders_dataset.csv,99441,99441,SUCCESS
+olist_order_items_dataset.csv,112650,112650,SUCCESS
+olist_products_dataset.csv,32951,32951,SUCCESS
