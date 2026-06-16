@@ -262,12 +262,4 @@ Python-ETL-DataQuality-Framework
 
 ✔ Integrated SQL Server with Power BI
 
----
 
-# Author
-
-### Pulmi Vihansa
-
-Data Engineering | Data Analytics | Business Intelligence
-
-GitHub: https://github.com/PulmiVihansa
